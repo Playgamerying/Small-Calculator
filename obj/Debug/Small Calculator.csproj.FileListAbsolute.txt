@@ -1,0 +1,7 @@
+F:\Learning\C#\Example programs\Small Calculator\bin\Debug\Small Calculator.exe.config
+F:\Learning\C#\Example programs\Small Calculator\bin\Debug\Small Calculator.exe
+F:\Learning\C#\Example programs\Small Calculator\bin\Debug\Small Calculator.pdb
+F:\Learning\C#\Example programs\Small Calculator\obj\Debug\Small Calculator.csproj.CoreCompileInputs.cache
+F:\Learning\C#\Example programs\Small Calculator\obj\Debug\Small Calculator.exe
+F:\Learning\C#\Example programs\Small Calculator\obj\Debug\Small Calculator.pdb
+F:\Learning\C#\Example programs\Small Calculator\obj\Debug\Small Calculator.csproj.AssemblyReference.cache
